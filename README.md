@@ -1,4 +1,4 @@
-<img width="922" height="162" alt="Screenshot 2025-08-19 at 21 16 28" src="https://github.com/user-attachments/assets/f307c0b7-648c-4553-8762-5848fabf997a" /># EIGENVALUES-AND-EIGENVECTORS
+
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
