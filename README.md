@@ -26,8 +26,7 @@ print("Eigen values are",values,"and Eigen Vectors are",vectors)
 
 ## Output
 
-
-<img width="922" height="162" alt="Screenshot 2025-08-19 at 21 16 28" src="https://github.com/user-attachments/assets/13dae4a4-e2bc-41dd-8f51-e6c8cf97e7c7" />
+<img width="1263" height="716" alt="image" src="https://github.com/user-attachments/assets/83b45e5a-076d-4b21-ab0f-4bd49d5a064a" />
 
 
 ## Result:
